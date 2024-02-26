@@ -14,3 +14,30 @@
 - Al posto di npm run build, potreste eseguire npm run dev e lasciarlo attivo
 
 6. Aprire un altro terminale ed eseguire il comando php artisan serve
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------
+
+Se la mia tabella si chiama books, il model si chiamerà Book
+
+Se la mia entità al plurale è NOMEENTITAs (con NOMEENTITA tutto minuscolo e in snake case), il model si chiamera NomeDellEntitaAlSingolareInPascalCase
+
+
+cars -> Car
+
+user_details -> UserDetail
+
+teachers -> Teacher
+
+degrees -> Degree
